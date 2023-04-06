@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Click here the link](https://your-solution-url.com)
-- Live Site URL: [Click here the link](https://your-live-site-url.com)
+- Solution URL: [Click here the link] https://github.com/rahulvr29/testimonials-grid-section-main
+- Live Site URL: [Click here the link] https://app.netlify.com/sites/prismatic-pie-344b07/overview
 
 ## My process
 
